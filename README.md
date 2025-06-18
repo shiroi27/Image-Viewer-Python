@@ -52,9 +52,10 @@ This was my Day 4 project. Follow my journey here and on Instagram.
 
 ⸻
 
-🔗 Connect with Me
-	•	📸 Instagram: @shiroi_27
-	•	💼 GitHub: shiroi27
+📷 Follow my journey on :
+	• 🐍 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+        • 💼 [GitHub: shiroi27](https://github.com/shiroi27)
+        • 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
 
 ⸻
 
