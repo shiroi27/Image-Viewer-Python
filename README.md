@@ -1,5 +1,9 @@
-  
 
+## 📸 Preview
+
+![Image Viewer Preview](https://github.com/user-attachments/assets/266bcc8d-2021-4f0c-a442-bea662bb7c33)
+
+  
 ⸻
 
 🖼️ Image Viewer App - Day 4 of #100DaysOfCode
