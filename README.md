@@ -30,14 +30,22 @@ This project resizes the window dynamically based on the selected image size. De
 
 🚀 How to Run
 
-# Clone this repository
-https://github.com/YOUR-USERNAME/Image-Viewer-Python
-
-# Navigate into the project folder
+1. ✅ Make sure Python is installed (preferably Python 3.x)
+2. 📁 Clone the repository
+```bash
+git clone https://github.com/shiroi27/Image-Viewer-Python.git
+```
+3. 📂 Navigate to the project folder
+```bash
 cd Image-Viewer-Python
-
-# Run the application
+```
+4. ▶️ Run the Python script
+```bash
 python Image_viewer.py
+```
+5. 🖼️ Click “SELECT IMAGE” in the app and choose an image file from your computer to view it.
+
+💡 You can also download just the Image_viewer.py file and double-click it (if your system opens .py files with Python).
 
 
 ⸻
