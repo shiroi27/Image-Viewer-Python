@@ -6,7 +6,7 @@
   
 ⸻
 
-🖼️ Image Viewer App - Day 4 of #100DaysOfCode
+**🖼️ Image Viewer App - Day 4 of #100DaysOfCode**
 
 A simple yet elegant image viewer app built using Python and Tkinter.
 This project resizes the window dynamically based on the selected image size. Designed for ease and visual appeal!
