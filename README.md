@@ -64,11 +64,13 @@ This was my Day 4 project. Follow my journey here and on Instagram.
 
 ⸻
 
-📷 Follow my journey on :
-	• 🐍 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
-        • 💼 [GitHub: shiroi27](https://github.com/shiroi27)
-        • 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
+🤝 Connect With Me
 
+I’m sharing my #100DaysOfCode journey with real-world Python projects.  
+Let’s connect and grow together! 🌱✨
+            - 📸 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+            - 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
+            - 💼 [LinkedIn: @shiroi27](https://linkedin.com/in/shiroi27)
 ⸻
 
 📜 License
